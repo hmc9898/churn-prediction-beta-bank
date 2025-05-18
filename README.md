@@ -47,4 +47,8 @@ Three supervised learning models were tested:
 - Integrate additional behavioral data for richer feature sets  
 - Schedule periodic retraining to account for changing customer behavior
 
+## Author
 
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
